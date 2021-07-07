@@ -29,7 +29,13 @@ body {
   animation: blink linear infinite 2s;
 }
 .logo b span:nth-of-type(2){
+  animation: blink linear infinite 5s;
+}
+.logo b span:nth-of-type(3){
   animation: blink linear infinite 3s;
+}
+.logo b span:nth-of-type(4){
+  animation: blink linear infinite 7s;
 }
 @keyframes blink {
   78% {
